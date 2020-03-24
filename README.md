@@ -1,2 +1,2 @@
 # hello-world
-my Hello world repo
+Es un pequeño paso para mi, pero uno incluso más ínfimo para la humanidad
